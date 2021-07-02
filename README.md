@@ -1,3 +1,3 @@
 # Learning CI with travis
 
-Simple hello test
+Simple hello print test

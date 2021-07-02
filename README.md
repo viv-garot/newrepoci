@@ -128,11 +128,11 @@ echo "bye"
 
 ### - Create the pull request
 
-### - See how the checks are now failing in GH
+- See how the checks are now failing in GH
 
 ![image](https://user-images.githubusercontent.com/85481359/124281736-511f4a00-db4a-11eb-8a77-7f8486d1849c.png)
 
-- And the build failed in  travis
+- And how the build failed in travis
 
 ![image](https://user-images.githubusercontent.com/85481359/124281851-72803600-db4a-11eb-891c-eec62b5e0c32.png)
 

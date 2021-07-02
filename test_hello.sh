@@ -8,7 +8,7 @@ if [ ${OUT} = "hello" ] ; then
  echo "Output is hello"
  exit 0
 else
- echo "Output is not hello, received :"
+ echo "Output is not hello"
  echo ${OUT}
  exit 1
 fi

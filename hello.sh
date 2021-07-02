@@ -1,4 +1,4 @@
-o#!/bin/bash
+#!/bin/bash
 
 echo "hello"
 exit 0

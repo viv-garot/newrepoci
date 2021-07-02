@@ -101,9 +101,7 @@ fi
 ![image](https://user-images.githubusercontent.com/85481359/124279005-40b9a000-db47-11eb-843e-17b6e38fcddf.png)
 
 
-### - Checks passed on GitHub, you can now merge the PR (Pull Request)
-
-
+### - Checks passed on GitHub, you can now safely merge the PR
 
 ![image](https://user-images.githubusercontent.com/85481359/124279175-79f21000-db47-11eb-9532-85fba5e962de.png)
 

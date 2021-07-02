@@ -2,6 +2,14 @@
 
 Simple hello print test
 
+## Pre-requirements
+
+- GitHub account
+
+## How to use this repo
+
+As this is a `Learning-by-doing` repo exercice, avoid cloning the repo but rather create the required files from scratch
+
 ### - Create an account on travis
 
 - Go to travis-ci.com and sign up with GitHub
@@ -18,7 +26,16 @@ Simple hello print test
 
 - Travis will take a few mins to sync with the GitHub repo
 
-### - Create a new branch on GitHub
+### - Create a new repo on GitHub
+
+![image](https://user-images.githubusercontent.com/85481359/124285282-11f2f800-db4e-11eb-9c4c-9ea0e0a8bf50.png)
+
+- Needs to be public, contains a readme file and MIT License
+
+![image](https://user-images.githubusercontent.com/85481359/124285662-6b5b2700-db4e-11eb-8f83-0bc93781b51d.png)
+
+
+### - Branch the repo
 
 ![image](https://user-images.githubusercontent.com/85481359/124276436-14e8eb00-db44-11eb-8dfa-0840e335e095.png)
 
@@ -79,7 +96,7 @@ fi
 
 ![image](https://user-images.githubusercontent.com/85481359/124280340-dbff4500-db48-11eb-9aa4-a0742de9a145.png)
 
-### - This how look a successful build on travis
+### - This how a successful build looks like on travis
 
 ![image](https://user-images.githubusercontent.com/85481359/124279005-40b9a000-db47-11eb-843e-17b6e38fcddf.png)
 
@@ -90,7 +107,7 @@ fi
 
 ![image](https://user-images.githubusercontent.com/85481359/124279175-79f21000-db47-11eb-9532-85fba5e962de.png)
 
-- Confirm the merge
+### - Confirm the merge
 
 ![image](https://user-images.githubusercontent.com/85481359/124279319-a574fa80-db47-11eb-88bd-4d6e725b8830.png)
 
@@ -107,13 +124,13 @@ fi
 echo "bye"
 ```
 
-- Commit the changes into a new branch
+### - Commit the changes into a new branch
 
 ![image](https://user-images.githubusercontent.com/85481359/124281396-f685ee00-db49-11eb-9604-8e7d58d3cb10.png)
 
-- Create the pull request
+### - Create the pull request
 
-- See how the checks are now failing in GH
+### - See how the checks are now failing in GH
 
 ![image](https://user-images.githubusercontent.com/85481359/124281736-511f4a00-db4a-11eb-8a77-7f8486d1849c.png)
 
